@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title></title>
+
+  <link rel="stylesheet" href="index.css" type="text/css">
+
+</head>
+
+<body>
+
+  
+
+<div class="topnav">
+
+  <a href="#">Sign up</a>
+
+  <a href="#">Sign in</a>
+
+   
+
+  <style>
+
+    .topnav{
+
+overflow: hidden;
+
+  background-color: #e9e9e9;
+
+  
+
+}
+
+.topnav a{
+
+  float: right;
+
+  display: block;
+
+  color: black;
+
+  background:pink;
+
+  text-align: center;
+
+  padding: 14px 16px;
+
+  text-decoration: none;
+
+  font-size: 15px;
+
+}
+
+  </style>
+
