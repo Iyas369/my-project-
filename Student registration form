@@ -1,0 +1,77 @@
+<<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+  <title>Document</title>
+
+</head>
+
+<body>
+
+  
+
+<h1>Register</h1>
+
+    <p>Please fill in this form to create an account.</p>
+
+    <hr>
+
+    <label for="Name"><b>Name</b></label>
+
+    <input type="text" placeholder="Enter Name" name="name" id="name" required>
+
+<br>
+
+    <label for="email"><b>email</b></label>
+
+    <input type="email" placeholder="email" name="psw" id="email" required>
+
+<br>
+
+    <label for="password"><b> Password</b></label>
+
+    <input type="password" placeholder="Repeat Password" name="password" id="password" required>
+
+    <hr>
+
+    <select>
+
+      <option>Class</option>
+
+      <option>Class 1</option>
+
+      <option>Class 2</option>
+
+      <option>Class 3</option>
+
+      <option>Class 4</option>
+
+      <option>Class 5</option>
+
+      <option>Class 6</option>
+
+      <option>Class 7</option>
+
+      <option>Class 8</option>
+
+      <option>Class 9</option>
+
+      <option>Class 10</option>
+
+    </select>
+
+    
+
+ 
+
+</body>
+
+</html>
