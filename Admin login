@@ -18,9 +18,9 @@
 
 <h5>Profile </h5>
 
-<p>Name:</p>
+<label>Name</label>
 
-<p>Email:</p>
+<label>Email:</label>
 
 <H2>Add class content </H2>
 
